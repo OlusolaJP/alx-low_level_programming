@@ -1,9 +1,13 @@
 #include <stdio.h>
 /**
-* main -entry point
+* main -print the string in the future
+* this program prints *"programming is like building is like building a multiling
 *
-*Return: 0 after printing the function
+* ual puzzle"
+*Return: 0 
 */
 int main(void)
-{puts("\"programming is like building is like building a multilingual puzzle");
-    return(0);
+{
+	{puts("\"programming is like building is like building a multilingual puzzle");
+   	 return(0);
+}
