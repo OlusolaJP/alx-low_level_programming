@@ -15,7 +15,7 @@ float afloat;
 	printf("Size of a char: %zu byte(s)\n", sizeof(acharacter));
 	printf("Size of an int: %zu byte(s)\n", sizeof(ainteger));
 	printf("Size of a long int: %zu byte(s)\n", sizeof(along));
-	printf("Size of a long long int: %zu byte(s)\n", sizeof(alongalong));
+	printf("Size of a long long int: %zu byte(s)\n", sizeof(alonglong));
 	printf("Size of a float: %zu byte(s)\n", sizeof(afloat));
 	return (0);
 }
